@@ -17,11 +17,11 @@ sh data.sh
 If you find this dataset helpful, please cite our publication.
 
 ``` 
-@article{trautmann2020aspect,
+@inproceedings{trautmann2020aspect,
   title={Aspect-Based Argument Mining},
   author={Trautmann, Dietrich},
-  journal={arXiv preprint arXiv:2011.00633},
+  booktitle={Proceedings of the 7th Workshop on Argument Mining},
+  pages={41--52},
   year={2020}
-  url = {https://arxiv.org/pdf/2011.00633.pdf},
 }
 ```
